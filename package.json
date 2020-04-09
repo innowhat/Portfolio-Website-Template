@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-website-template",
+  "name": "portfolio-template",
   "version": "1.0.0",
-  "homepage": "https://innowhat.github.io/portfolio-website-template",
+  "homepage": "https://innowhat.github.io/portfolio-template",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.2.0",
