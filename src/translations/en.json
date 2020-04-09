@@ -1,0 +1,325 @@
+{
+  "nav": {
+    "logo": "Logo",
+    "home": "HOME",
+    "skills": "SKILLS",
+    "projects": "PROJECTS",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "coverImage": "https://i.picsum.photos/id/669/200/200.jpg",
+    "coverTitle": "WELCOME MESSAGE ",
+    "coverTitle2": "Orci porta non pulvinar neque laoreet suspendisse",
+    "coverDescription": "Orci porta non pulvinar neque laoreet suspendisse",
+    "count": 0,
+    "show": ""
+  },
+  "skills": {
+    "titleImage": "images/mySiteImage/skill.png",
+    "title": "SKILLS",
+    "description": "SKILLS TO GET YOUR IDEA UP AND RUNNING",
+    "tools": {
+      "toolsHeader": "Tools",
+      "toolsList": [
+        {
+          "name": "Jira",
+          "url": "https://www.atlassian.com/software/jira",
+          "img": "images/myToolsImage/jira.svg"
+        },
+        {
+          "name": "HubSpot",
+          "url": "https://www.hubspot.com",
+          "img": "images/myToolsImage/hubspot.svg"
+        },
+        {
+          "name": "Adobe",
+          "url": "https://www.adobe.com/sea/",
+          "img": "images/myToolsImage/adobe.svg"
+        },
+        {
+          "name": "Atom",
+          "url": "https://atom.io/",
+          "img": "images/myToolsImage/atom.svg"
+        },
+        {
+          "name": "Azure",
+          "url": "https://azure.microsoft.com/en-us/features/azure-portal/",
+          "img": "images/myToolsImage/azure.svg"
+        },
+        {
+          "name": "Bitbucket",
+          "url": "https://bitbucket.org/",
+          "img": "images/myToolsImage/bitbucket.svg"
+        },
+
+        {
+          "name": "VS Code",
+          "url": "https://code.visualstudio.com/",
+          "img": "images/myToolsImage/visual-studio-code.svg"
+        },
+
+        {
+          "name": "Brew",
+          "url": "",
+          "img": ""
+        },
+        {
+          "name": "Docker",
+          "url": "",
+          "img": ""
+        },
+        {
+          "name": "Github",
+          "url": "",
+          "img": ""
+        },
+        {
+          "name": "GitLab",
+          "url": "",
+          "img": ""
+        },
+        {
+          "name": "Xcode IDE",
+          "url": "",
+          "img": ""
+        },
+        {
+          "name": "Visual Studio",
+          "url": "",
+          "img": ""
+        },
+        {
+          "name": "Android Studio",
+          "url": "",
+          "img": ""
+        }
+      ]
+    },
+
+    "tech": {
+      "techHeader": "Technologies",
+      "techList": [
+        {
+          "name": "React",
+          "url": "https://reactjs.org/",
+          "img": "images/myToolsImage/react.svg"
+        },
+        {
+          "name": "NPM",
+          "url": "https://www.npmjs.com/",
+          "img": "images/myToolsImage/npm.svg"
+        },
+        {
+          "name": "JavaScript",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "img": "images/myToolsImage/language-javascript.svg"
+        },
+        {
+          "name": "HubSpot",
+          "url": "https://www.hubspot.com",
+          "img": "images/myToolsImage/hubspot.svg"
+        },
+        {
+          "name": "Node.js",
+          "url": "https://nodejs.org/en/",
+          "img": "images/myToolsImage/nodejs.svg"
+        },
+        {
+          "name": "HTML",
+          "url": "https://www.w3.org/html/",
+          "img": "images/myToolsImage/language-html5.svg"
+        },
+        {
+          "name": "CSS",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+          "img": "images/myToolsImage/language-css3.svg"
+        },
+        {
+          "name": "Bootstrap",
+          "url": "https://getbootstrap.com/",
+          "img": "images/myToolsImage/bootstrap.svg"
+        },
+        {
+          "name": "Git",
+          "url": "https://git-scm.com/",
+          "img": "images/myToolsImage/git.svg"
+        },
+        {
+          "name": "XAML",
+          "url": "https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/xaml-overview-wpf",
+          "img": "images/myToolsImage/xaml.svg"
+        },
+        {
+          "name": "Swift",
+          "url": "https://developer.apple.com/swift/",
+          "img": "images/myToolsImage/language-swift.svg"
+        },
+        {
+          "name": "Next.js",
+          "url": "https://nextjs.org/",
+          "img": ""
+        },
+        {
+          "name": "Webpack",
+          "url": "https://webpack.js.org/",
+          "img": ""
+        },
+        {
+          "name": "Gatsby",
+          "url": "https://www.gatsbyjs.org/",
+          "img": ""
+        },
+        {
+          "name": "Contentful",
+          "url": "https://www.contentful.com/",
+          "img": ""
+        },
+        {
+          "name": "Styled-component",
+          "url": "https://www.styled-components.com/",
+          "img": ""
+        },
+        {
+          "name": "WordPress",
+          "url": "",
+          "img": ""
+        },
+        {
+          "name": "mySQL",
+          "url": "",
+          "img": ""
+        },
+        {
+          "name": "XML",
+          "url": "",
+          "img": ""
+        }
+      ]
+    },
+
+    "competencies": {
+      "competenciesHeader": "Competencies and Specialities",
+      "item1": {
+        "header": "Frontend development",
+        "subHeader": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum et sollicitudin ac orci phasellus egestas. Sit amet dictum sit amet. Faucibus turpis in eu mi bibendum neque egestas.",
+        "icon": "images/mySiteImage/f.svg"
+      },
+      "item2": {
+        "header": "Backend development",
+        "subHeader": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum et sollicitudin ac orci phasellus egestas. Sit amet dictum sit amet. Faucibus turpis in eu mi bibendum neque egestas.",
+        "icon": "images/mySiteImage/b.svg"
+      },
+      "item3": {
+        "header": "Other development",
+        "subHeader": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum et sollicitudin ac orci phasellus egestas. Sit amet dictum sit amet. Faucibus turpis in eu mi bibendum neque egestas.",
+        "icon": "images/mySiteImage/c.svg"
+      }
+    }
+  },
+  "projects": {
+    "titleImage": "images/mySiteImage/project.png",
+    "title": "PROJECTS",
+    "description": "THINGS YOU WORKED ON ",
+    "projectList": [
+      {
+        "name": "Project one",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "img": "https://i.picsum.photos/id/19/3000/2000.jpg",
+        "url": "/"
+      },
+      {
+        "name": "Project two",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "img": "https://i.picsum.photos/id/579/3000/2000.jpg",
+        "url": "/"
+      },
+      {
+        "name": "Project3 ",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "img": "https://i.picsum.photos/id/15/3000/2000.jpg",
+        "url": "/"
+      }
+    ],
+    "playGround": {
+      "header": "Other Project",
+      "playGroundList": [
+        {
+          "name": "Project1",
+          "details": "Generate template based resume and cover letter and download as pdf ",
+          "img": "https://i.picsum.photos/id/16/3000/2000.jpg",
+          "url": "/"
+        },
+        {
+          "name": "Project2",
+          "details": "Meme generator",
+          "img": "https://i.picsum.photos/id/18/3000/2000.jpg",
+          "url": "/"
+        },
+        {
+          "name": "Project3",
+          "details": "Jokes and Quotes Generator",
+          "img": "https://i.picsum.photos/id/17/3000/2000.jpg",
+          "url": "/"
+        }
+      ],
+      "more": "More on Github",
+      "link": "/"
+    }
+  },
+  "contact": {
+    "titleImage": "images/mySiteImage/contact.png",
+    "title": "CONTACT",
+    "description": "HAPPY TO HEAR FROM YOU",
+    "emailAddress": "name@ymail.com",
+    "emailDescription": "Please use the contact form or drop me an email",
+    "formLabel": {
+      "name": "Name..",
+      "email": "Email address....",
+      "message": "Your message...",
+      "submit": "Send message"
+    }
+  },
+  "others": {
+    "about": {
+      "aboutPicture": "https://i.picsum.photos/id/669/200/200.jpg",
+      "aboutHeader": "ABOUT YOU",
+      "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum et sollicitudin ac orci phasellus egestas. Sit amet dictum sit amet. Faucibus turpis in eu mi bibendum neque egestas.",
+      "aboutSocial": [
+        {
+          "name": "Twitter",
+          "url": "/",
+          "icon": "images/mySiteImage/twitter.svg"
+        },
+        {
+          "name": "GitHub",
+          "url": "/",
+          "icon": "images/mySiteImage/github.svg"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "/",
+          "icon": "images/mySiteImage/linkedin.svg"
+        }
+      ]
+    },
+    "hire": {
+      "header": "GET IN TOUCH",
+      "subHeader": "Have a project or two in mind or some idea/proposal you want to discuss? Hit me up! Always happy and eager to hear from you."
+    },
+    "error": {
+      "header": "OOPS!",
+      "subHeader": "PAGE DOESN'T EXIST",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+    }
+  },
+  "misc": {
+    "learnMore": " Learn more",
+    "seeMore": "See more",
+    "seeDetails": "Details",
+    "contact": "Contact",
+    "send": "Send"
+  }
+}
