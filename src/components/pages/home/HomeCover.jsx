@@ -20,7 +20,7 @@ const Cover = styled.div`
   }
 
   h1 {
-    font-size: 83px;
+    font-size: 73px;
     margin-bottom: 10px;
   }
 
@@ -38,7 +38,7 @@ const Cover = styled.div`
   }
 `;
 
-const HomeCover = props => {
+const HomeCover = (props) => {
   const componentData = props.appData;
   return (
     <Cover>

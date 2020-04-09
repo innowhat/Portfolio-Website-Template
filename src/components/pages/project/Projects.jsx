@@ -20,11 +20,11 @@ function Projects() {
           <Flex
             style={{
               justifyContent: "center",
-              textAlign: "center"
+              textAlign: "center",
             }}
           >
             <Card style={{ width: "100%" }}>
-              <Heading center style={{ color: "#fff" }}>
+              <Heading h2 center style={{ color: "#fff" }}>
                 {componentData.title}
               </Heading>
               <Heading center h4 style={{ color: "#fff" }}>

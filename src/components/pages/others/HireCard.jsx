@@ -15,7 +15,7 @@ const HireCard = () => {
       <Flex id="hire" style={{ justifyContent: "center", padding: "50px 0" }}>
         <Card secondary style={{ textAlign: "center" }}></Card>
         <Card big>
-          <Heading h2>{componentData.header}</Heading>
+          <Heading h3>{componentData.header}</Heading>
           <p>{componentData.subHeader}</p>
           <Link to="/contact">{appData.misc.contact}</Link>
         </Card>

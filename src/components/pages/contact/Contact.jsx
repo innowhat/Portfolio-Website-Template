@@ -23,7 +23,7 @@ function Contact() {
             }}
           >
             <Card style={{ width: "100%" }}>
-              <Heading center style={{ color: "#fff" }}>
+              <Heading h2 center style={{ color: "#fff" }}>
                 {appData.contact.title}
               </Heading>
               <Heading center h5 style={{ color: "#fff" }}>

@@ -20,7 +20,7 @@ const AboutCard = () => {
           />
         </Card>
         <Card big>
-          <Heading h2>{componentData.aboutHeader}</Heading>
+          <Heading h3>{componentData.aboutHeader}</Heading>
           <p>{componentData.aboutDescription}</p>
           <Heading>
             <SocialContact />
